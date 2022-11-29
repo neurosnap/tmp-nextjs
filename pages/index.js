@@ -61,7 +61,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          Aptible
+          Aptiblesdasdsadas
         </a>
       </footer>
     </div>
